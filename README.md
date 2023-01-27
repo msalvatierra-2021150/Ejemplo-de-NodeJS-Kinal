@@ -6,5 +6,5 @@ Descargar el proyecto, al descargar se requiere node_modules, para instalar las 
 Usar el comando
 
 ```
-npm install -g express
+npm install 
 ```
